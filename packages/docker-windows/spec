@@ -3,3 +3,4 @@ name: docker-windows
 dependencies: []
 files:
   - docker-windows/docker-18-09-0.zip
+  - exiter.ps1
